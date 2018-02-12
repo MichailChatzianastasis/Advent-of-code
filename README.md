@@ -1,4 +1,3 @@
 # Solutions to the Adventofcode problems(year 2017)
-Problem Day 1 http://adventofcode.com/2017/day/1 Solution [Contribution guidelines for this project](Advent-of-code/Day1/Inverse Captcha.md)
-
+[Problem Day 1](http://adventofcode.com/2017/day/1) [Solution Day 1](Day 1.md)
 
